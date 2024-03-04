@@ -1,6 +1,8 @@
 # CLSC-XML
 [Collaborative Learning of Supervision and Correlation for Generalized Zero-Shot Extreme Multi-label Learning](https://)
 
+## notes
+Code files are being organized and uploaded step by step.
 ## Requirements
 
 * python
