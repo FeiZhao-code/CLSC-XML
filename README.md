@@ -1,8 +1,6 @@
 # CLSC-XML
 [Collaborative Learning of Supervision and Correlation for Generalized Zero-Shot Extreme Multi-label Learning](https://)
 
-## notes
-Code files are being organized and uploaded step by step.
 ## Requirements
 
 * python
@@ -16,6 +14,8 @@ Code files are being organized and uploaded step by step.
 * EUR-Lex
 * Wiki10-31K
 * AmazonCat-13K
+
+notes: The link of the data set is in the experimental chapter of the paper.
 
 ## XML Experiments
 
