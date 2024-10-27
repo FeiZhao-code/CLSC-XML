@@ -1,5 +1,5 @@
 # CLSC-XML
-[Collaborative Learning of Supervision and Correlation for Generalized Zero-Shot Extreme Multi-label Learning](https://)
+[Collaborative Learning of Supervision and Correlation for Generalized Zero-Shot Extreme Multi-label Learning](https://link.springer.com/article/10.1007/s10489-024-05498-8)
 
 ## Requirements
 
